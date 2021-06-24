@@ -4,7 +4,7 @@ Work- simple voting machine which works in two modes
 (i)	Voting mode:- user can cast their vote only
 (ii)Result mode:- get the count of votes for a particular candidate
 
-** Used XILINX Vivado ** 
+*Used XILINX Vivado* 
 <br>
 Board- zedboard
 Hierarchy design approach:- part by part design and combine all later 
