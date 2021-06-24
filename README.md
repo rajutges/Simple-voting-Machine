@@ -4,7 +4,7 @@ Work- simple voting machine which works in two modes
 (i)	Voting mode:- user can cast their vote only
 (ii)Result mode:- get the count of votes for a particular candidate
 
-*Used XILINX Vivado* 
+**Used XILINX Vivado** 
 <br>
 Board- zedboard
 Hierarchy design approach:- part by part design and combine all later 
@@ -13,7 +13,10 @@ And a slide switch as mode
 And a button as reset
 And 8 leds for output
 
-SAMPLE IMAGE
+**ZEDBOARD**
+<img src="https://github.com/Shrutisinha22/VOTING-MACHINE-USING-ZEDBOARD/blob/main/ZedBoard_RevA_sideA_0_0.png"/>
+
+**SAMPLE IMAGE**
 
 <img src="https://github.com/rajutges/Simple-voting-Machine/blob/main/Capture.JPG"/>
 
