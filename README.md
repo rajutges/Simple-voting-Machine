@@ -14,6 +14,7 @@ And a button as reset
 And 8 leds for output
 
 **ZEDBOARD**
+
 <img src="https://github.com/Shrutisinha22/VOTING-MACHINE-USING-ZEDBOARD/blob/main/ZedBoard_RevA_sideA_0_0.png"/>
 
 **SAMPLE IMAGE**
