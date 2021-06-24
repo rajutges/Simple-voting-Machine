@@ -13,4 +13,6 @@ And a slide switch as mode
 And a button as reset
 And 8 leds for output
 
+<img src="https://github.com/rajutges/SHORTEST-PATH/blob/main/solution_node/Screenshots_solved/path_3.png"/>
+
 
