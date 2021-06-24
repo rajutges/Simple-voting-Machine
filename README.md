@@ -13,5 +13,4 @@ And a slide switch as mode
 And a button as reset
 And 8 leds for output
 
-Reference : https://www.youtube.com/watch?v=qs5mijrqAfM&list=PLXHMvqUANAFOviU0J8HSp0E91lLJInzX1&index=7&ab_channel=VipinKizheppatt
 
